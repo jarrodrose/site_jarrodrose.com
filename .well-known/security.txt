@@ -1,0 +1,4 @@
+Contact: mailto:domain_security@jarrodrose.com
+Expires: 2026-12-31T12:59:00.000Z
+Preferred-Languages: en
+Canonical: https://jarrodrose.com/.well-known/security.txt
